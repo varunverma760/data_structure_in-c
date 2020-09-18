@@ -76,8 +76,19 @@
 %e,%E,%f,%g,%G   | for float values
 
 %o  | for octal values
+
+
+
 %s  | for sequence of string of characters
+
+
+
+
 %u  | for unsigned values
+
+
+
+
 %x,%X    | for hexadecimal values
 
 

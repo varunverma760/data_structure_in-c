@@ -142,13 +142,22 @@ num[3]=3;
 num[4]=4;
 
 
+
+
+
 ***Limitations of array***
+
+
 1. Array are fixed size
+
+
 2. Data elements are stored in contingous memory locations which may not be always availabe.
+
+
 3. Insertions and deletions of elements from there problematic.
 
 
 
 
-3.
+
 

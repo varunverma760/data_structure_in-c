@@ -92,3 +92,63 @@
 %x,%X    | for hexadecimal values
 
 
+
+
+
+
+
+-------------------**ARRAYS**-----------------------------------------
+
+
+*An array is a useful data structure used to store data elements in successib=ve memory locations. More than one lements is stored in a a sequence , so it is called a composite data structure . An array is a linear and homogeneous data structure. An array permits homogeneous data. It means that similar types are stored continguosly in memory and that too under oone variable created*.
+
+
+
+![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Array-Declaration-In-C.png)
+
+
+
+
+--------------------------------***Array intialization***------------------------------------- 
+
+
+The array can be done as under:
+
+
+
+int a[5]=0,1,2,3,4
+
+in the above statement, all elements are intialized. It is also possible to intialize individual element by specifying the subscript number in the sqaure bracket.
+
+
+Array elemnts can be accessed as follows:
+
+
+
+
+
+num[0]=0
+
+num[1]=1;
+
+
+num[2]=2;
+
+
+num[3]=3;
+
+
+
+num[4]=4;
+
+
+***Limitations of array***
+1. Array are fixed size
+2. Data elements are stored in contingous memory locations which may not be always availabe.
+3. Insertions and deletions of elements from there problematic.
+
+
+
+
+3.
+

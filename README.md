@@ -181,7 +181,7 @@ num[4]=4;
   
   
   
-  ***->(1)  Describe the way compenets are related to each other***.
+  ***->(1)  Describe the way of components are related to each other***.
   
   
   

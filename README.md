@@ -195,3 +195,41 @@ num[4]=4;
   
   
   
+  
+  
+  ***Steps to implement abstract data type  :- ***
+  
+  
+  **#step 1:-**
+  
+  
+  **Define the abstract data type**
+  
+ 
+ 
+ **#step2: -**
+  
+  
+  **Define the operations to be performed on the data**
+  
+  
+  
+  **#step3 :-
+  
+  
+  
+  **Fill the  interface with specification**
+  
+  
+  **#step4: -**
+  
+  
+  **Create the implementation**
+  
+  
+  **#step5: -**
+  
+  
+  **putthe abstract data type to test**
+  
+  

@@ -160,4 +160,38 @@ num[4]=4;
 
 
 
+**Q1. What is abstract data type?**
 
+
+
+
+***Ans1. Abstract data type (ADT):-***
+
+
+***Data structures is the implementations for an ADT***.
+
+
+
+***It is the mathematical model of the data object that can make up data as well as functions that operate on these objects.***
+
+
+
+***-> Two parts of the abstract data type:-***
+
+  
+  
+  
+  ***->(1)  Describe the way compenets are related to each other***.
+  
+  
+  
+  
+  
+  
+  ***->(2) The operations that can be perfromed on the data type.***
+  
+  
+  ***For example :- graph, trees , array along with their object.*** 
+  
+  
+  

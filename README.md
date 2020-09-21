@@ -2,6 +2,27 @@
 
 
 
+
+
+
+
+----------------------------------------***YOUTUBE PLAYLIST***-----------------------------
+
+
+
+
+![image](https://i.ytimg.com/vi/DFpWCl_49i0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARGmn6fH6YLKrRPGnoX4k5R0xR4w) 
+
+(https://www.youtube.com/playlist?list=PL36UpCxzR0Uoq-a3OjRKsZhfHADVU4GDi "Click to play on Youtube.com")
+
+
+
+
+
+
+
+
+
 **Syllabus of unit 1 in data structures**:-
 
 
